@@ -1,0 +1,9 @@
+
+    .cmiStyle select {font-size:100; margin: 3px; margin-right: 4px; margin-left: 4px; padding: 4px; border:0px; color:#EEEEEE; background-color:#383838;}
+    .cmiStyle button {font-size:100; margin: 3px; margin-right: 4px; margin-left: 4px; padding: 5px; padding-right:8px; padding-left:8px; border:0px; color:#EEEEEE; background-color:#383838;}
+    .cmiStyle label  {font-size:100; margin: 4px; margin-right: -2px; margin-left: -2px; padding: 5px; padding-right:8px; padding-left:8px; border:0px; color:#EEEEEE; background-color:#383838;}
+    .cmiStyle input[type=radio] {display: none;}
+    .cmiStyle input[type=radio]:checked + label{background-color:#1E90FF;}
+    .cmiStyle input[type=checkbox] {display: none;}
+    .cmiStyle input[type=checkbox]:checked + label{font-size:100; margin: 3px; margin-right: 4px; margin-left: 4px; padding: 5px; padding-right:8px; padding-left:8px; border:0px; background-color:#1E90FF;}
+    .cmiStyle input[type=checkbox] + label{font-size:100; margin: 3px; margin-right: 4px; margin-left: 4px; padding: 5px; padding-right:8px; padding-left:8px; border:0px; background-color:#383838;}
